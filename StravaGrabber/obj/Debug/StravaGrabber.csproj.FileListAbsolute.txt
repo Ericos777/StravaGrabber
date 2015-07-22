@@ -1,0 +1,11 @@
+c:\users\erica\documents\visual studio 2012\Projects\StravaGrabber\StravaGrabber\bin\Debug\StravaGrabber.exe.config
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\StravaGrabber\obj\Debug\StravaGrabber.csprojResolveAssemblyReference.cache
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\StravaGrabber\bin\Debug\StravaGrabber.exe
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\StravaGrabber\bin\Debug\StravaGrabber.pdb
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\StravaGrabber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\StravaGrabber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\StravaGrabber\obj\Debug\StravaGrabber.exe
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\StravaGrabber\obj\Debug\StravaGrabber.pdb
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\StravaGrabber\bin\Debug\com.strava.api.dll
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\StravaGrabber\bin\Debug\com.strava.api.pdb
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\StravaGrabber\bin\Debug\com.strava.api.xml

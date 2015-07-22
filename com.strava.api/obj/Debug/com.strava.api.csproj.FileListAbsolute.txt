@@ -1,0 +1,8 @@
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\com.strava.api\bin\Debug\com.strava.api.XML
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\com.strava.api\bin\Debug\com.strava.api.dll
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\com.strava.api\bin\Debug\com.strava.api.pdb
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\com.strava.api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\com.strava.api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\com.strava.api\obj\Debug\com.strava.api.csprojResolveAssemblyReference.cache
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\com.strava.api\obj\Debug\com.strava.api.dll
+C:\Users\erica\Documents\Visual Studio 2012\Projects\StravaGrabber\com.strava.api\obj\Debug\com.strava.api.pdb
